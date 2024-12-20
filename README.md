@@ -20,7 +20,7 @@ Also add the following entries:
 
 Then finally to run locally execute these commands:
 
-npm install
+npm install  
 npm run dev
 
 You should be able to navigate to http://localhost:3000 to get to the main page
