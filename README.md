@@ -2,7 +2,7 @@
 
 This is a simple base chat app that uses Clerk for sign-in/sign-up and a free OpenRouter model (currently free as of 12/20/2024)
 
-To run the app you need to signup for account on clerk.com and openrouter.ai 
+To run the app you need to signup for account on [clerk.com](https://clerk.com) and [openrouter.ai](https://openrouter.ai) 
 
 You also need to get API keys and store them somewhere safe, and then add them to a .env.local file
 
