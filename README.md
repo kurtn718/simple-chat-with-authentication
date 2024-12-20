@@ -25,5 +25,9 @@ npm run dev
 
 You should be able to navigate to http://localhost:3000 to get to the main page
 
+# Deploying to the world
 
+If one is looking for a free/quick way to deploy this app - it can be done on [Vercel](https://vercel.com)
+
+This base code is the starting point for the [Thankful Thoughts](https://thankfulthoughts.vercel.app) application.
 
